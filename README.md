@@ -1,4 +1,4 @@
-### Instalacion y ejecución
+### Instalación y ejecución
 
 ```sh
 git clone https://github.com/brandonvilla21/c3-react.git
